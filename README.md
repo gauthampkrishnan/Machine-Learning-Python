@@ -1,2 +1,2 @@
 # Machine-Learning-Python
-Machine learning line fitting using python Linear regression using Brain body datasets .
+Machine learning line fitting using Python Linear regression using Brain body datasets .
